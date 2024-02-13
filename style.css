@@ -54,13 +54,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 60vh;
+    height: 80vh;
     background: url(img/header.jpg) no-repeat center;
     background-size: cover;
 }
 
 .title {
-    margin-bottom: 40px;
     font-size: 60px;
     font-weight: 600;
     text-transform: uppercase;
@@ -76,7 +75,6 @@ p {
 
 .btn {
     display: inline-block;
-    margin-top: 15px;
     padding: 10px 40px;
     border: 2px solid #e91e63;
     color: #fff;
@@ -145,6 +143,7 @@ p {
     background-size: cover;
     background-attachment: fixed;
     text-align: center;
+    height: 60vh;
 }
 
 .about {
@@ -155,12 +154,12 @@ p {
 .box-container2 {
     display: flex;
     justify-content: center;
-    padding-top: 50px;
     flex-wrap: wrap;
 }
 
 .box-container2 .box {
     width: 250px;
+    height: 350px;
     padding-bottom: 20px;
     text-align: center;
     box-shadow: 0 5px 5px rgb(0, 0, 0, .3);
@@ -221,7 +220,6 @@ p {
     }
     
     .title {
-        margin-bottom: 0px;
         font-size: 40px;
     }
 
