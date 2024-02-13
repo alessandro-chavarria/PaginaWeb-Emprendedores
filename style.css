@@ -107,7 +107,7 @@ p {
 }
 
 .box-container .box{
-    height: 170px;
+    height: 400px;
     width: 270px;
     background: #171717;
     text-align: center;
@@ -115,8 +115,15 @@ p {
     box-shadow: 0 5px rgb(0, 0, 0, .3);
     margin: 20px;
 }
+.box-container .box .parrafo-center {
+    padding: 20px;
+}
+.box-container2 .box .parrafo2-center {
+    padding: 20px;
+}
 
 .box-container .box i {
+    margin-top: 100px;
     height: 50px;
     width: 50px;
     line-height: 50px;
