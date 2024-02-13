@@ -116,10 +116,14 @@ p {
     margin: 20px;
 }
 .box-container .box .parrafo-center {
-    padding: 20px;
+    margin: 50px;
 }
 .box-container2 .box .parrafo2-center {
-    padding: 20px;
+    padding: 5%;
+}
+
+.box-container2 .box p {
+    font-size: 15px;
 }
 
 .box-container .box i {
@@ -190,7 +194,7 @@ p {
 }
 
 .box-container2 .box p {
-    font-size: 18px;
+    font-size: 17px;
     color: #fff;
     padding: 0;
 }
